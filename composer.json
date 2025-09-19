@@ -1,5 +1,5 @@
 {
-    "name": "laminas/laminas-mvc",
+    "name": "magento/magento-zf-db",
     "description": "Laminas's event-driven MVC layer, including MVC Applications, Controllers, and Plugins",
     "license": "BSD-3-Clause",
     "keywords": [
@@ -42,6 +42,9 @@
         "laminas/laminas-coding-standard": "^3.0.1",
         "phpunit/phpunit": "^10.5.38",
         "webmozart/assert": "^1.11"
+    },
+    "replace": {
+      "laminas/laminas-mvc": "^3.8"
     },
     "suggest": {
         "laminas/laminas-log": "^2.9.1  To provide log functionality via LogFilterManager, LogFormatterManager, and LogProcessorManager",
