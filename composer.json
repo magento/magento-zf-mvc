@@ -1,5 +1,5 @@
 {
-    "name": "magento/magento-zf-db",
+    "name": "magento/magento-zf-mvc",
     "description": "Laminas's event-driven MVC layer, including MVC Applications, Controllers, and Plugins",
     "license": "BSD-3-Clause",
     "keywords": [
